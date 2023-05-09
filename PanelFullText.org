@@ -1,7 +1,13 @@
 #+TITLE: Networked Collaborative Performance
 #+SUBTITLE: Frugal Strategies and Cultural Impact of Technology
 
-* Introductory Statement
+* Introduction
+
+The panel investigates alternative methods and technologies for artistic collaboration in the performing arts (music, dance, sound art, performance art etc.).  It asks to what extent such methods can have a long-term impact on artistic creativity and how they might enable groups to develop their own individual identities and forms of expression and how they may give access to groups from diverse social, economic or ethnic backgrounds, and provide some measure of independence from the ideological, social or financial concerns and accompanying aesthetic limitations of mainstream media. In particular, the panel seeks to raise awareness of and discuss the potential of frugal innovation approaches to internet collaboration and to start a discussion that provokes the interest amongst artists and academics to eplore such approaches in practice.  By alternative methods we mean methods based on open-source technologies and not relying on established video-conferencing tools or expensive movement-tracking technologies geared towards massive mainstream virtual or augmented reality applications.
+
+A central question of the panel is the role of narrative in the collaborative performance endeavour.  Here we view narrative in a very broad sense.  A narrative in our sense the idea of a narrated story, but goes beyond that to encompasse the ensemble of shared experiences or practices which constitutes a context that is necessary for the participants or audience to make sense of the elements of a performance in whatever way, individually or collectively.
+
+* Background
 
 The integration of technologies such as internet communication and collaboration tools, devices for human machine-interaction, live audiovisual media processing and live coding of performance, has led to the emergence of new fields of creativity in performance arts. Such "art/technology, dance/technology and new media art—the cross-over performance and science assemblages'' (Birringer 2016:8), give rise to the premise of "bodily motion and non-verbal communication, understood as changing repertoires of emotional expression and cognition, constitute a foundation of sustainable cultural diversity, a changing matrix of embodied knowledge in permanent formation" (Birringer 2016: 18).  At the same time, this body-focused approach is complemented by projects and communities such as the Algorithmic Pattern Catalogue by Alex McLean (https://algorithmicpattern.org/) and the live coding community (https://toplap.org/). As these technologies are maturing and becoming more widely accessible to different social groups in various countries, it is needed to assess their impact in social processes through the building of cultural narratives or through the creation of means for the recording, study, transmission and transmutation of cultural practices  (See for example recent calls by the Journals Performance Philosophy and ECHO). As open-source software and human-machine-interaction hardware become more accessible, more culturally diverse groups put them to artistic uses. However, collaboration across cultural and disciplinary borders poses a host of problems not just of technical but also of cultural communication. In this context, the proposed panel investigates the impact of internet collaboration with live coding and other live interaction technologies on culture and the new kinds of art forms that arise from it, especially under the perspective of frugal innovation, i.e. the combination of technical skills, economy of means and an intuitive approach to technology. The premise that this panel ultimately intends to raise as a challenge, is that such work requires a global approach on the technical, organizational, social and cultural aspects in order to be sustainable. As Birringer states, technology is inseparable from the social. In the field of interactive performance arts, this gains particular significance, because of the fragile and crucial role that communication plays in the collaborative creative process. The objective of the panel is to illuminate the different aspects of this field, technological, aesthetic, social and philosophical, to show from their own perspectives how all of these aspects are interrelated, and to identify the central challenges and strategies involved in creative collaboration and research in this field. To this purpose, the panel brings together artists, technologists and educators that approach this topic from different perspectives in order to report their experience as practitioners and to discuss how the combination of these technologies changes the way in which we collaborate in these cross-over performance and science assemblages. Each panelist is asked to report on related aspects in their recent work, from the perspective of their practical experience, and giving examples from their own work.
 
@@ -18,6 +24,14 @@ Taking the Pragmatist view in which living selves present as bundles of habit (J
 ** Johannes Birringer
 The panelist will report on their collaborative technical / soma-technical practice of the past few years, which encompasses a cross-cultural method (involving movement, drawing, transcribing physical/virtual narration and image-sound-wearable design, working with found and made objects in real space as well as telepresence space) of finding pathways for a better social understanding of creative re-embodiment and conjoining temporarily abled bodies.
 
+Orienting quote:
+"Living as I did in the country of my skin, all the methods I used had to be acceptable to white observers"
+Beryl Gilroy (Black Teacher, working in the UK, 1976)
+
+1. What country or location do you work in?  Who observes you?
+2. Can somatechnical collaboration meaningfully include bodily difference, different abilities and cultural locations?
+3. How are bodily experiences shaped/altered by engagement with digital technologies
+
 ** Pavlos Antoniadis
 The democratisation of interactive internet- and web-based technologies expands the traditional communicative networks in music. Whether in terms of micro- or macro-communication, ranging from the sophisticated interplay between improvisers to mass media cultural industries, these networks are radically decomposed and rethought in terms of technologically mediated categories such as presence, immersion, augmentation, interaction (Chris Salter). In this panel discussion, I will reflect on the role of musical embodiment as a site of frugal innovation and social interaction, through its rendition into multimodal data via sensor technologies and communication protocols. This rendering is often thought of in terms of control and command metaphors, bearing a military origin (Marije Baalman): control of input gesture, commands of output media and so on. In light of the biopolitics of cognitive capitalism (Yann Moulier-Boutang), this rendering becomes even more politically charged, relating to the collapse of two traditional Foucauldian categories (personal and population control) into massive surveillance of intimate performance data (Shoshanna Zuboff). Inspired by Brian Massumi’s take on Gregory Bateson, I will attempt to propose an alternative model, whereby the notion of animal play as abstraction and metacommunication informs the development of a new biopolitical paradigm for Human-Machine Interaction in music. I will be reporting case studies of ludic exploration, non-verbal self-reflexivity, prelinguistic emergence, hacking and détournement, accentuating the potential of these technologies for collective creativity, political sensegiving and critical distancing in today’s musicking. 
 
@@ -31,25 +45,13 @@ I will discuss my experience as composer through experiments with intermedia per
  My contribution in the proposed panel will treat the convergence of technology and the human body for artistic purposes combining the fields of Performance Studies, Media Studies and the Arts. Starting from various artistic works that use motion sensors and telematic technologies, I will draw upon new media possibilities and artistic practices so as to analyse the relation between the technical and the human in contemporary performative arts. These new available technologies not only create a condition for processing, recording, producing or enhancing physical techniques, but also assist in transforming physical practices and establishing new human-machine spheres. Technology, linked to humans from the beginning of their existence, becomes a global medium created by them which also radically alters them, making it impossible to distinguish the boundary between "the empire of man and the kingdom of technique" (Latour). Thus, the human-technology distinction is unfounded (Simondon), while the position that humans invent while the technological tool is invented has become obsolete (Stiegler). At the same time, conditions are created in which technology can - and must - function as a space for political and social action (Galloway and Thacker). My main interest is how do these prerequisites apply into the artistic practices, and more specifically in dance and music performances with sensor motions.
 
 * Questions
- 
+
 ** Main Question
 Can networked performance form an alternative tool for creating narratives? What narratives exist in (collaborative, networked) intermedia performance and how do they relate to traditional cultural narratives presented through other media?
 ** Subsidiary questions
-
 - Can technology and the internet be used as creative tools by communities irrespectively of differences in economical, social, and educational status, and if so, how?  What is the potential of such projects to affect change in various societies? How can this potential be enhanced or and its effects appreciated? 
 - How does collaboration affect your work as an artist? How does it influence your choice of topics and approaches in your work?
 - What kinds of art forms and formal structures arise from networked interactive performance and how do they relate to established art forms and structures?
 - How does collaborative art research relate to frugal approaches in innovation and technology? What are the contributions of frugal approaches from non-central, local communities to mainstream technology and art?
 
 
-** Other questions:
-*** Blackboxing
-*** Literacy
-*** Centralization and orientation towards
-*** Respect for Individuals and individual voices?
-*** Inclusion of small groups
-*** Light-weight solutions.
-*** Collaboration on the same kind of enterprise.
-*** Collaboration vs. Labor
-*** Digital labor - platform economy
-https://my.weezevent.com/isea2023
